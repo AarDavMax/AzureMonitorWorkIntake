@@ -22,6 +22,8 @@ The Azure Monitor documentation team handles product documentation published und
 https://learn.microsoft.com/azure/azure-monitor
 ```
 
+Instructions on finding the owner of any article can be found [here](https://aka.ms/InternalFindFeatureOwnerFromLearnArticle).
+
 ## Subservice request links
 
 | Azure Monitor subservice | AKA.MS link | Notes |
